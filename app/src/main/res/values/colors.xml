@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorHintText">#4d4d4d</color>
+    <color name="colorLabel">#FFFFFF</color>
+    <color name="colorEditBackground">#FFFFFF</color>
+    <color name="colorSecondaryMahlabs">#E0E00B</color>
+    <color name="colorTransparent">#0000</color>
+    <color name="colorSecondaryTransparent">#77e0e00b</color>
+</resources>

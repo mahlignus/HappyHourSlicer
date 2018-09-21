@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Happy Hour Slicer!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_resuts">Resultado</string>
+    <string name="edt_bebados_hint">Quantos beberam?</string>
+    <string name="lbl_bebados_text">Beberam</string>
+    <string name="lbl_famintos_text">Comeram</string>
+    <string name="btn_slicer_text">Slice!</string>
+    <string name="edt_bebidas_hint">Valor gasto em bebidas</string>
+    <string name="lbl_bebidas_text">Total em bebidas</string>
+    <string name="edt_total_hint">Valor total da conta</string>
+    <string name="lbl_total_text">Total da conta</string>
+    <string name="edt_famintos_hint">Quantos se alimentaram?</string>
+    <string name="lbl_result_bebados">Se só bebeu:</string>
+    <string name="lbl_result_nao_bebados">Se não bebeu:</string>
+    <string name="lbl_result_ambos">Se consumiu tudo:</string>
+    <string name="lbl_result_msg">Beba sem moderação!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logo_mahlabs">Logo Mahlabs</string>
+    <string name="logo_happy_hour_slicer">Logo Happy Hour Slicer</string>
+</resources>
